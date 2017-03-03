@@ -4,10 +4,15 @@ https://github.com/raspberrypi-ui/pango/tree/master/examples
 https://github.com/aled/jsi
 https://mapzen.com/blog/mapping-mountains/ VERY COOL
 http://cairo.cairographics.narkive.com/XQFGgCrT/i-wonder-if-icc-color-management-support-in-cairo-is-planned
+http://wiki.inkscape.org/wiki/index.php/SpecIccForCairo
 https://lists.freedesktop.org/archives/cairo/2010-February/019210.html
 http://libregraphicsworld.org/blog/entry/color-managed-cairo-is-slipping-away
+http://wiki.inkscape.org/wiki/index.php/ExportPDFCMYK
 https://xmlgraphics.apache.org/fop/trunk/extensions.html#pseudo-color-profiles
 https://cgit.freedesktop.org/~ajohnson/cairo/commit/?h=color-space&id=5f835f183dc708836c8f091191a7b4efa46e1db3
 
 #Tiles
 http://tools.geofabrik.de/map/#14/8.0557/7.0457&type=Geofabrik_Standard&grid=1&mlat=20.87339&mlon=13.15231
+
+#Colours
+http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
