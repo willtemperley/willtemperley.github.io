@@ -13,6 +13,10 @@ https://cgit.freedesktop.org/~ajohnson/cairo/commit/?h=color-space&id=5f835f183d
 http://stackoverflow.com/questions/6241282/converting-pdf-to-cmyk-with-identify-recognizing-cmyk
 https://lists.freedesktop.org/archives/cairo/2010-February/019373.html
 
+#PDF formats
+http://www.adobe.com/content/dam/Adobe/en/devnet/acrobat/pdfs/PDF32000_2008.pdf
+https://talkingpdf.org/iso-32000/
+
 #Tiles
 http://tools.geofabrik.de/map/#14/8.0557/7.0457&type=Geofabrik_Standard&grid=1&mlat=20.87339&mlon=13.15231
 
